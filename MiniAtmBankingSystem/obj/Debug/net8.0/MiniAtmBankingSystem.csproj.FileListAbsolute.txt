@@ -1,0 +1,14 @@
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\bin\Debug\net8.0\MiniAtmBankingSystem.exe
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\bin\Debug\net8.0\MiniAtmBankingSystem.deps.json
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\bin\Debug\net8.0\MiniAtmBankingSystem.runtimeconfig.json
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\bin\Debug\net8.0\MiniAtmBankingSystem.dll
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\bin\Debug\net8.0\MiniAtmBankingSystem.pdb
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\obj\Debug\net8.0\MiniAtmBankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\obj\Debug\net8.0\MiniAtmBankingSystem.AssemblyInfoInputs.cache
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\obj\Debug\net8.0\MiniAtmBankingSystem.AssemblyInfo.cs
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\obj\Debug\net8.0\MiniAtmBankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\obj\Debug\net8.0\MiniAtmBankingSystem.dll
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\obj\Debug\net8.0\refint\MiniAtmBankingSystem.dll
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\obj\Debug\net8.0\MiniAtmBankingSystem.pdb
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\obj\Debug\net8.0\MiniAtmBankingSystem.genruntimeconfig.cache
+C:\Users\uSER\source\repos\MiniAtmBankingSystem\MiniAtmBankingSystem\obj\Debug\net8.0\ref\MiniAtmBankingSystem.dll
